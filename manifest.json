@@ -1,0 +1,9 @@
+{
+    "name": "BiggerLobby",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/christianOrona/roadside-research-biggerlobby",
+    "description": "Removes the 4 player party limit in Roadside Research",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.21"
+    ]
+}
